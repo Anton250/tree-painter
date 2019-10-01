@@ -3,7 +3,7 @@ This script can draw a tree of your directories and files.
 
 ## Uses
 ```bash
-$ python3 <path> [param] <value>
+$ python3 tree.py <path> [param] <value>
 ```
 
 ## Dependences
