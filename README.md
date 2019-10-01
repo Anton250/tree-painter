@@ -1,12 +1,12 @@
-#tree.py or tree-painter
+# tree.py or tree-painter
 This script can draw a tree of your directories and files.
 
-##Uses
+## Uses
 ```bash
 $ python3 <path> [param] <value>
 ```
 
-##Dependences
+## Dependences
 
 For this script you need to install module Colored
 
